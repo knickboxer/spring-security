@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="OAuth2-Resource-Server.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title37910">OAuth2 Resource Server</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="292.7294"
+     inkscape:cy="327.07632"
+     inkscape:window-width="1720"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker35964"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path35962" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path32886" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker33348"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path33346" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path32889" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g958"
+       transform="matrix(0.02777877,0,0,0.02777877,31.021655,66.337257)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g903">
+	<g
+   id="Layer_2_25_">
+		<path
+   d="m 372.816,322.828 c -60.436,-21.786 -79.748,-10.809 -79.748,-50.174 0,-1.879 0.119,-5.41 0.34,-9.022 h 2.957 c 41.301,3.012 81.092,5.89 89.947,-0.301 14.143,-9.88 -34.811,-25.105 -34.811,-152.92 0,-64.582 -42.562,-110.41 -107.145,-110.41 -0.549,0 -1.088,0.033 -1.629,0.043 C 242.575,0.04 242.42,0.038 242.272,0.03 V 0.018 C 242.03,0.018 241.788,0 241.545,0 241.469,0 241.395,0.004 241.318,0.004 241.245,0.004 241.172,0 241.095,0 241.024,0 240.953,0.004 240.882,0.006 240.812,0.004 240.741,0 240.67,0 c -0.076,0 -0.149,0.004 -0.223,0.004 -0.076,0 -0.15,-0.004 -0.227,-0.004 -0.242,0 -0.484,0.018 -0.727,0.018 V 0.03 c -0.149,0.008 -0.303,0.01 -0.455,0.014 -0.542,-0.01 -1.081,-0.043 -1.629,-0.043 -64.581,0 -107.145,45.828 -107.145,110.41 0,127.814 -48.951,143.041 -34.811,152.92 8.856,6.188 48.647,3.312 89.948,0.301 h 2.958 c 0.22,3.612 0.338,7.146 0.338,9.022 0,39.365 -19.313,28.388 -79.747,50.174 -60.62,21.863 -78.095,44.152 -78.095,59.355 0,15.181 0,99.58 0,99.58 h 209.438 0.302 0.286 0.286 0.302 209.439 c 0,0 0,-84.399 0,-99.58 0.002,-15.201 -17.472,-37.49 -78.092,-59.355 z"
+   id="path900" />
+
+	</g>
+
+</g>
+      <g
+         id="g905">
+</g>
+      <g
+         id="g907">
+</g>
+      <g
+         id="g909">
+</g>
+      <g
+         id="g911">
+</g>
+      <g
+         id="g913">
+</g>
+      <g
+         id="g915">
+</g>
+      <g
+         id="g917">
+</g>
+      <g
+         id="g919">
+</g>
+      <g
+         id="g921">
+</g>
+      <g
+         id="g923">
+</g>
+      <g
+         id="g925">
+</g>
+      <g
+         id="g927">
+</g>
+      <g
+         id="g929">
+</g>
+      <g
+         id="g931">
+</g>
+      <g
+         id="g933">
+</g>
+    </g>
+    <g
+       id="g1156"
+       transform="matrix(0.0305752,0,0,0.0305752,59.918521,64.965409)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="99.059998"
+         style="fill:#cccccc"
+         width="512"
+         height="368.07999"
+         id="rect1040"
+         x="0" />
+      <rect
+         x="15.999"
+         y="115.108"
+         style="fill:#f2f2f2"
+         width="480"
+         height="336"
+         id="rect1042" />
+      <path
+         d="M 512.007,99.06 V 73.62 c 0,-15.816 -12.936,-28.752 -28.752,-28.752 H 115.015 28.759 C 12.943,44.868 0.007,57.804 0.007,73.62 v 25.44 z"
+         id="path1044" />
+      <path
+         style="opacity:0.25;fill:#ffffff;enable-background:new"
+         d="M 147.047,44.868 H 115.023 28.767 C 12.951,44.868 0.015,57.804 0.015,73.62 v 25.432 h 115.888 z"
+         id="path1046" />
+      <circle
+         style="fill:#d80e47"
+         cx="40.542999"
+         cy="71.963997"
+         r="8.184"
+         id="circle1048" />
+      <circle
+         style="fill:#05c3d6"
+         cx="65.102997"
+         cy="71.963997"
+         r="8.184"
+         id="circle1050" />
+      <g
+         id="g1056">
+	<circle
+   style="fill:#ffffff"
+   cx="89.663002"
+   cy="71.963997"
+   r="8.184"
+   id="circle1052" />
+
+	<path
+   style="fill:#ffffff"
+   d="M 428.263,86.34 H 170.887 c -7.904,0 -14.376,-6.472 -14.376,-14.376 v 0 c 0,-7.904 6.472,-14.376 14.376,-14.376 h 257.376 c 7.904,0 14.376,6.472 14.376,14.376 v 0 c 0,7.904 -6.472,14.376 -14.376,14.376 z"
+   id="path1054" />
+
+</g>
+      <path
+         d="m 180.591,65.404 1.968,7.56 c 0.432,1.672 0.832,3.2 1.112,4.752 h 0.096 c 0.336,-1.512 0.832,-3.112 1.32,-4.72 l 2.432,-7.592 h 2.28 l 2.304,7.456 c 0.552,1.784 0.984,3.344 1.32,4.856 h 0.096 c 0.24,-1.512 0.648,-3.08 1.144,-4.832 l 2.12,-7.488 h 2.68 l -4.8,14.888 h -2.464 l -2.28,-7.112 c -0.52,-1.656 -0.952,-3.144 -1.32,-4.888 h -0.064 c -0.368,1.784 -0.832,3.328 -1.352,4.92 l -2.4,7.08 h -2.464 l -4.496,-14.888 h 2.768 z"
+         id="path1058" />
+      <path
+         d="m 203.559,65.404 1.968,7.56 c 0.432,1.672 0.832,3.2 1.112,4.752 h 0.096 c 0.336,-1.512 0.832,-3.112 1.32,-4.72 l 2.432,-7.592 h 2.28 l 2.304,7.456 c 0.552,1.784 0.984,3.344 1.32,4.856 h 0.096 c 0.24,-1.512 0.648,-3.08 1.144,-4.832 l 2.12,-7.488 h 2.68 l -4.8,14.888 h -2.464 l -2.288,-7.096 c -0.52,-1.656 -0.952,-3.144 -1.32,-4.888 h -0.064 c -0.368,1.784 -0.832,3.328 -1.352,4.92 l -2.4,7.08 h -2.464 l -4.496,-14.888 h 2.776 z"
+         id="path1060" />
+      <path
+         d="m 226.527,65.404 1.968,7.56 c 0.432,1.672 0.832,3.2 1.112,4.752 h 0.096 c 0.336,-1.512 0.832,-3.112 1.32,-4.72 l 2.432,-7.592 h 2.28 l 2.304,7.456 c 0.552,1.784 0.984,3.344 1.32,4.856 h 0.096 c 0.24,-1.512 0.648,-3.08 1.144,-4.832 l 2.12,-7.488 h 2.68 l -4.8,14.888 h -2.464 l -2.28,-7.112 c -0.52,-1.656 -0.952,-3.144 -1.32,-4.888 h -0.064 c -0.368,1.784 -0.832,3.328 -1.352,4.92 l -2.4,7.08 h -2.464 l -4.496,-14.88 z"
+         id="path1062" />
+      <path
+         d="m 246.207,78.7 c 0,-1.144 0.768,-1.936 1.84,-1.936 1.072,0 1.816,0.8 1.816,1.936 0,1.112 -0.704,1.936 -1.84,1.936 -1.08,0 -1.816,-0.824 -1.816,-1.936 z"
+         id="path1064" />
+      <g
+         id="g1070">
+	<rect
+   x="461.33499"
+   y="70.332001"
+   style="fill:#ffffff"
+   width="23"
+   height="4"
+   id="rect1066" />
+
+	<polygon
+   style="fill:#ffffff"
+   points="480.871,72.332 471.759,63.228 474.607,60.404 486.527,72.332 474.607,84.26 471.759,81.436 "
+   id="polygon1068" />
+
+</g>
+      <polygon
+         style="fill:#c9c9c9"
+         points="414.519,67.316 429.831,67.316 422.175,77.22 "
+         id="polygon1072" />
+      <path
+         style="fill:#ffffff"
+         d="m 492.007,119.108 v 328 h -472 v -328 h 472 m 4,-4 h -480 v 336 h 480 z"
+         id="path1074" />
+      <circle
+         cx="373.103"
+         cy="324.98001"
+         r="21.08"
+         id="circle1076" />
+      <path
+         style="fill:#05c3d6"
+         d="m 442.351,335.332 v -20.76 l -21.128,-2.112 c -1.208,-4.448 -3.056,-8.624 -5.424,-12.448 l 13.624,-16.648 -14.68,-14.68 -17.32,14.168 c -3.624,-1.904 -7.512,-3.376 -11.616,-4.296 l -2.28,-22.8 h -10.384 -0.088 -10.384 l -2.28,22.8 c -4.096,0.92 -7.992,2.392 -11.616,4.296 l -17.32,-14.168 -14.68,14.68 13.624,16.648 c -2.36,3.824 -4.216,8 -5.424,12.448 l -21.128,2.112 v 20.76 l 21.16,2.12 c 1.216,4.432 3.04,8.616 5.4,12.432 l -13.632,16.664 14.68,14.68 17.32,-14.168 c 3.624,1.904 7.52,3.368 11.616,4.296 l 2.28,22.8 h 10.384 0.088 10.384 l 2.28,-22.8 c 4.104,-0.92 7.992,-2.392 11.616,-4.296 l 17.32,14.168 14.68,-14.68 -13.632,-16.664 c 2.36,-3.824 4.184,-8 5.4,-12.432 z m -69.248,20.848 c -17.248,0 -31.232,-13.984 -31.232,-31.232 0,-17.248 13.984,-31.232 31.232,-31.232 17.248,0 31.232,13.984 31.232,31.232 -0.008,17.256 -13.984,31.232 -31.232,31.232 z"
+         id="path1078" />
+      <circle
+         cx="170.927"
+         cy="273.164"
+         r="29.959999"
+         id="circle1080" />
+      <path
+         style="fill:#d80e47"
+         d="m 272.207,288.06 v -30.368 l -30.904,-3.088 c -1.768,-6.504 -4.472,-12.608 -7.928,-18.208 l 19.928,-24.352 -21.472,-21.472 -25.328,20.728 c -5.296,-2.792 -10.992,-4.936 -16.984,-6.288 l -3.336,-33.352 h -15.184 -0.128 -15.192 l -3.336,33.352 c -6,1.352 -11.688,3.496 -16.984,6.288 l -25.328,-20.728 -21.472,21.472 19.928,24.352 c -3.456,5.6 -6.16,11.704 -7.928,18.208 l -30.904,3.088 v 30.368 l 30.952,3.096 c 1.776,6.48 4.448,12.6 7.904,18.184 l -19.944,24.368 21.472,21.472 25.328,-20.72 c 5.304,2.784 10.992,4.928 16.992,6.28 l 3.336,33.352 h 15.184 0.128 15.184 l 3.336,-33.352 c 6,-1.352 11.688,-3.496 16.992,-6.28 l 25.328,20.72 21.472,-21.472 -19.944,-24.368 c 3.448,-5.584 6.12,-11.704 7.904,-18.184 z m -101.28,30.488 c -25.224,0 -45.672,-20.448 -45.672,-45.672 0,-25.224 20.448,-45.672 45.672,-45.672 25.224,0 45.672,20.448 45.672,45.672 0,25.224 -20.448,45.672 -45.672,45.672 z"
+         id="path1082" />
+      <g
+         id="g1084">
+</g>
+      <g
+         id="g1086">
+</g>
+      <g
+         id="g1088">
+</g>
+      <g
+         id="g1090">
+</g>
+      <g
+         id="g1092">
+</g>
+      <g
+         id="g1094">
+</g>
+      <g
+         id="g1096">
+</g>
+      <g
+         id="g1098">
+</g>
+      <g
+         id="g1100">
+</g>
+      <g
+         id="g1102">
+</g>
+      <g
+         id="g1104">
+</g>
+      <g
+         id="g1106">
+</g>
+      <g
+         id="g1108">
+</g>
+      <g
+         id="g1110">
+</g>
+      <g
+         id="g1112">
+</g>
+    </g>
+    <g
+       id="g1226"
+       transform="matrix(0.2249971,0,0,0.2249971,105.65501,40.58999)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1168">
+	<path
+   d="m 53,41 c 0,-3.859 -3.14,-7 -7,-7 -3.86,0 -7,3.141 -7,7 v 1 H 35 V 60 H 57 V 42 h -4 z m -12,0 c 0,-2.757 2.243,-5 5,-5 2.757,0 5,2.243 5,5 v 1 H 41 Z m 14,3 V 58 H 37 V 44 h 2 14 z"
+   id="path1158" />
+
+	<path
+   d="M 45,54.858 V 56 c 0,0.553 0.448,1 1,1 0.552,0 1,-0.447 1,-1 v -1.142 c 1.72,-0.447 3,-1.999 3,-3.858 0,-2.206 -1.794,-4 -4,-4 -2.206,0 -4,1.794 -4,4 0,1.859 1.28,3.411 3,3.858 z M 46,49 c 1.103,0 2,0.897 2,2 0,1.103 -0.897,2 -2,2 -1.103,0 -2,-0.897 -2,-2 0,-1.103 0.897,-2 2,-2 z"
+   id="path1160" />
+
+	<path
+   d="M 0.835,21 C 0.314,21.74 0,22.635 0,23.608 V 35.391 C 0,36.365 0.314,37.26 0.835,38 h 35.626 c 1.277,-4.052 5.07,-7 9.539,-7 4.469,0 8.261,2.948 9.539,7 h 3.626 C 59.686,37.26 60,36.365 60,35.392 V 23.608 C 60,22.634 59.686,21.74 59.165,21 Z M 10.5,34 C 8.019,34 6,31.981 6,29.5 6,27.019 8.019,25 10.5,25 12.981,25 15,27.019 15,29.5 15,31.981 12.981,34 10.5,34 Z M 34,29 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z"
+   id="path1162" />
+
+	<path
+   d="M 55.392,0 H 4.608 C 2.067,0 0,2.067 0,4.608 V 16.391 C 0,17.365 0.314,18.26 0.835,19 H 59.164 C 59.686,18.26 60,17.365 60,16.392 V 4.608 C 60,2.067 57.933,0 55.392,0 Z M 10.5,15 C 8.019,15 6,12.981 6,10.5 6,8.019 8.019,6 10.5,6 12.981,6 15,8.019 15,10.5 15,12.981 12.981,15 10.5,15 Z M 34,10 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z"
+   id="path1164" />
+
+	<path
+   d="M 0,42.608 V 54.391 C 0,56.933 2.067,59 4.608,59 H 32 V 40 H 0.835 C 0.314,40.74 0,41.635 0,42.608 Z M 10.5,44 C 12.981,44 15,46.019 15,48.5 15,50.981 12.981,53 10.5,53 8.019,53 6,50.981 6,48.5 6,46.019 8.019,44 10.5,44 Z"
+   id="path1166" />
+
+</g>
+      <g
+         id="g1170">
+</g>
+      <g
+         id="g1172">
+</g>
+      <g
+         id="g1174">
+</g>
+      <g
+         id="g1176">
+</g>
+      <g
+         id="g1178">
+</g>
+      <g
+         id="g1180">
+</g>
+      <g
+         id="g1182">
+</g>
+      <g
+         id="g1184">
+</g>
+      <g
+         id="g1186">
+</g>
+      <g
+         id="g1188">
+</g>
+      <g
+         id="g1190">
+</g>
+      <g
+         id="g1192">
+</g>
+      <g
+         id="g1194">
+</g>
+      <g
+         id="g1196">
+</g>
+      <g
+         id="g1198">
+</g>
+    </g>
+    <g
+       id="g1293"
+       transform="matrix(0.23563073,0,0,0.23563073,123.38855,40.167014)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1236">
+	<path
+   d="m 31.707,33.07 c -0.87,0.027 -1.74,0.042 -2.606,0.042 -0.869,0 -1.742,-0.014 -2.614,-0.042 C 19.146,32.869 13.296,31.832 9.084,30.353 7.104,29.685 5.409,28.899 4.1,28 v 7.111 0.5 0.5 1.289 c 2.846,2.971 12.394,5.711 25,5.711 12.606,0 22.154,-2.74 25,-5.711 v -1.289 -0.5 -0.5 V 28 c -1.318,0.905 -3.028,1.697 -5.025,2.367 -4.21,1.472 -10.048,2.503 -17.368,2.703 z"
+   id="path1228" />
+
+	<path
+   d="M 4.1,14.889 V 22 22.5 23 24.289 c 2.638,2.754 11.033,5.31 22.286,5.668 0.115,0.004 0.233,0.005 0.349,0.008 0.326,0.009 0.651,0.018 0.982,0.023 0.457,0.008 0.918,0.012 1.383,0.012 0.465,0 0.926,-0.004 1.383,-0.011 0.33,-0.005 0.656,-0.014 0.982,-0.023 0.116,-0.003 0.234,-0.005 0.349,-0.008 C 43.067,29.599 51.462,27.043 54.1,24.29 V 23 22.5 22 14.889 C 49.233,18.232 38.944,20 29.1,20 19.256,20 8.968,18.232 4.1,14.889 Z"
+   id="path1230" />
+
+	<path
+   d="M 53.965,8.542 C 52.843,4.241 44.215,0 29.1,0 14.023,0 5.404,4.22 4.247,8.51 4.162,8.657 4.1,8.818 4.1,9 v 0.5 1.806 C 6.937,14.267 16.417,17 29.1,17 c 12.683,0 22.164,-2.733 25,-5.694 V 9.5 9 c 0,-0.168 -0.056,-0.319 -0.135,-0.458 z"
+   id="path1232" />
+
+	<path
+   d="m 4.1,41 v 8.201 c 0,0.162 0.043,0.315 0.117,0.451 1.181,4.895 11.747,8.549 24.883,8.549 13.106,0 23.655,-3.639 24.875,-8.516 0.08,-0.144 0.125,-0.309 0.125,-0.484 v -8.199 c -4.135,2.911 -12.655,5.199 -25,5.199 -12.346,0 -20.866,-2.29 -25,-5.201 z"
+   id="path1234" />
+
+</g>
+      <g
+         id="g1238">
+</g>
+      <g
+         id="g1240">
+</g>
+      <g
+         id="g1242">
+</g>
+      <g
+         id="g1244">
+</g>
+      <g
+         id="g1246">
+</g>
+      <g
+         id="g1248">
+</g>
+      <g
+         id="g1250">
+</g>
+      <g
+         id="g1252">
+</g>
+      <g
+         id="g1254">
+</g>
+      <g
+         id="g1256">
+</g>
+      <g
+         id="g1258">
+</g>
+      <g
+         id="g1260">
+</g>
+      <g
+         id="g1262">
+</g>
+      <g
+         id="g1264">
+</g>
+      <g
+         id="g1266">
+</g>
+    </g>
+    <g
+       id="g1226-8"
+       transform="matrix(0.2249971,0,0,0.2249971,105.65501,93.373445)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1168-4">
+        <path
+           d="m 53,41 c 0,-3.859 -3.14,-7 -7,-7 -3.86,0 -7,3.141 -7,7 v 1 H 35 V 60 H 57 V 42 h -4 z m -12,0 c 0,-2.757 2.243,-5 5,-5 2.757,0 5,2.243 5,5 v 1 H 41 Z m 14,3 V 58 H 37 V 44 h 2 14 z"
+           id="path1158-8" />
+        <path
+           d="M 45,54.858 V 56 c 0,0.553 0.448,1 1,1 0.552,0 1,-0.447 1,-1 v -1.142 c 1.72,-0.447 3,-1.999 3,-3.858 0,-2.206 -1.794,-4 -4,-4 -2.206,0 -4,1.794 -4,4 0,1.859 1.28,3.411 3,3.858 z M 46,49 c 1.103,0 2,0.897 2,2 0,1.103 -0.897,2 -2,2 -1.103,0 -2,-0.897 -2,-2 0,-1.103 0.897,-2 2,-2 z"
+           id="path1160-3" />
+        <path
+           d="M 0.835,21 C 0.314,21.74 0,22.635 0,23.608 V 35.391 C 0,36.365 0.314,37.26 0.835,38 h 35.626 c 1.277,-4.052 5.07,-7 9.539,-7 4.469,0 8.261,2.948 9.539,7 h 3.626 C 59.686,37.26 60,36.365 60,35.392 V 23.608 C 60,22.634 59.686,21.74 59.165,21 Z M 10.5,34 C 8.019,34 6,31.981 6,29.5 6,27.019 8.019,25 10.5,25 12.981,25 15,27.019 15,29.5 15,31.981 12.981,34 10.5,34 Z M 34,29 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 4,0 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z"
+           id="path1162-6" />
+        <path
+           d="M 55.392,0 H 4.608 C 2.067,0 0,2.067 0,4.608 V 16.391 C 0,17.365 0.314,18.26 0.835,19 H 59.164 C 59.686,18.26 60,17.365 60,16.392 V 4.608 C 60,2.067 57.933,0 55.392,0 Z M 10.5,15 C 8.019,15 6,12.981 6,10.5 6,8.019 8.019,6 10.5,6 12.981,6 15,8.019 15,10.5 15,12.981 12.981,15 10.5,15 Z M 34,10 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,-3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z m 2,3 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z"
+           id="path1164-5" />
+        <path
+           d="M 0,42.608 V 54.391 C 0,56.933 2.067,59 4.608,59 H 32 V 40 H 0.835 C 0.314,40.74 0,41.635 0,42.608 Z M 10.5,44 C 12.981,44 15,46.019 15,48.5 15,50.981 12.981,53 10.5,53 8.019,53 6,50.981 6,48.5 6,46.019 8.019,44 10.5,44 Z"
+           id="path1166-5" />
+      </g>
+      <g
+         id="g1170-0" />
+      <g
+         id="g1172-9" />
+      <g
+         id="g1174-4" />
+      <g
+         id="g1176-4" />
+      <g
+         id="g1178-0" />
+      <g
+         id="g1180-0" />
+      <g
+         id="g1182-0" />
+      <g
+         id="g1184-8" />
+      <g
+         id="g1186-4" />
+      <g
+         id="g1188-4" />
+      <g
+         id="g1190-0" />
+      <g
+         id="g1192-3" />
+      <g
+         id="g1194-5" />
+      <g
+         id="g1196-2" />
+      <g
+         id="g1198-0" />
+    </g>
+    <g
+       id="g1293-9"
+       transform="matrix(0.23563073,0,0,0.23563073,123.38855,92.950469)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1236-4">
+        <path
+           d="m 31.707,33.07 c -0.87,0.027 -1.74,0.042 -2.606,0.042 -0.869,0 -1.742,-0.014 -2.614,-0.042 C 19.146,32.869 13.296,31.832 9.084,30.353 7.104,29.685 5.409,28.899 4.1,28 v 7.111 0.5 0.5 1.289 c 2.846,2.971 12.394,5.711 25,5.711 12.606,0 22.154,-2.74 25,-5.711 v -1.289 -0.5 -0.5 V 28 c -1.318,0.905 -3.028,1.697 -5.025,2.367 -4.21,1.472 -10.048,2.503 -17.368,2.703 z"
+           id="path1228-3" />
+        <path
+           d="M 4.1,14.889 V 22 22.5 23 24.289 c 2.638,2.754 11.033,5.31 22.286,5.668 0.115,0.004 0.233,0.005 0.349,0.008 0.326,0.009 0.651,0.018 0.982,0.023 0.457,0.008 0.918,0.012 1.383,0.012 0.465,0 0.926,-0.004 1.383,-0.011 0.33,-0.005 0.656,-0.014 0.982,-0.023 0.116,-0.003 0.234,-0.005 0.349,-0.008 C 43.067,29.599 51.462,27.043 54.1,24.29 V 23 22.5 22 14.889 C 49.233,18.232 38.944,20 29.1,20 19.256,20 8.968,18.232 4.1,14.889 Z"
+           id="path1230-9" />
+        <path
+           d="M 53.965,8.542 C 52.843,4.241 44.215,0 29.1,0 14.023,0 5.404,4.22 4.247,8.51 4.162,8.657 4.1,8.818 4.1,9 v 0.5 1.806 C 6.937,14.267 16.417,17 29.1,17 c 12.683,0 22.164,-2.733 25,-5.694 V 9.5 9 c 0,-0.168 -0.056,-0.319 -0.135,-0.458 z"
+           id="path1232-2" />
+        <path
+           d="m 4.1,41 v 8.201 c 0,0.162 0.043,0.315 0.117,0.451 1.181,4.895 11.747,8.549 24.883,8.549 13.106,0 23.655,-3.639 24.875,-8.516 0.08,-0.144 0.125,-0.309 0.125,-0.484 v -8.199 c -4.135,2.911 -12.655,5.199 -25,5.199 -12.346,0 -20.866,-2.29 -25,-5.201 z"
+           id="path1234-1" />
+      </g>
+      <g
+         id="g1238-1" />
+      <g
+         id="g1240-5" />
+      <g
+         id="g1242-1" />
+      <g
+         id="g1244-9" />
+      <g
+         id="g1246-1" />
+      <g
+         id="g1248-0" />
+      <g
+         id="g1250-7" />
+      <g
+         id="g1252-0" />
+      <g
+         id="g1254-3" />
+      <g
+         id="g1256-4" />
+      <g
+         id="g1258-3" />
+      <g
+         id="g1260-2" />
+      <g
+         id="g1262-1" />
+      <g
+         id="g1264-8" />
+      <g
+         id="g1266-8" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.859764"
+       y="83.95723"
+       id="text2045"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2043"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="32.859764"
+         y="83.95723">USER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.751038"
+       y="57.255642"
+       id="text2045-9"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2043-7"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="83.751038"
+         y="57.255642">TOKEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.519577"
+       y="90.095009"
+       id="text2045-9-2"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2043-7-5"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="82.519577"
+         y="90.095009">TOKEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.395702"
+       y="83.95723"
+       id="text2045-5"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2043-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="61.395702"
+         y="83.95723">CLIENT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="105.62745"
+       y="58.739418"
+       id="text2045-5-5"
+       inkscape:transform-center-x="10.120306"
+       inkscape:transform-center-y="-1.6522949"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.62745"
+         y="58.739418"
+         id="tspan11784">AUTHORIZATION SERVER</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.62745"
+         y="63.149143"
+         id="tspan11782" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.62745"
+         y="67.558868"
+         id="tspan11780" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="105.65501"
+       y="111.58888"
+       id="text2045-5-5-0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.65501"
+         y="111.58888"
+         id="tspan22378">RESOURCE SERVER</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.65501"
+         y="115.9986"
+         id="tspan24498">(Backend)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.65501"
+         y="120.40833"
+         id="tspan22382" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.65501"
+         y="124.81805"
+         id="tspan11782-8" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="105.65501"
+         y="129.22778"
+         id="tspan11780-5" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.202518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#marker33348)"
+       d="M 75.575491,68.789368 104.11184,54.111022"
+       id="path33262"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.85492,49.589875 0.44999,-2.474968"
+       id="path33264"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.19971px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35964)"
+       d="M 75.557424,77.057494 104.03779,92.678836"
+       id="path35880"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.247244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 41.582953,72.845447 17.929104,0.146218"
+       id="path35994"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\images\OAuth2-Resource-Server.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <metadata
+     id="metadata37908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>OAuth2 Resource Server</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

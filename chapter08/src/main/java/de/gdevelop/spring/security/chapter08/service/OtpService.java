@@ -1,0 +1,41 @@
+package de.gdevelop.spring.security.chapter08.service;
+
+import de.gdevelop.spring.security.chapter08.entites.Otp;
+import de.gdevelop.spring.security.chapter08.repository.OtpRepository;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.stereotype.Component;
+
+import java.time.Instant;
+
+/**
+ * @author Gerhard
+ * @project security
+ * @created 2022
+ */
+@Component
+public class OtpService {
+
+    OtpRepository otpRepository;
+
+    public OtpService(OtpRepository otpRepository) {
+        this.otpRepository = otpRepository;
+    }
+
+    public Otp saveOtp(Otp otp) {
+
+        var entity = otpRepository.findByUsername(otp.getUsername()).orElse(otp);
+        entity.setOtp(otp.getOtp());
+        entity.setIssued(Instant.now());
+        return otpRepository.save(entity);
+    }
+
+
+    public Otp findByUsername(String username) {
+
+        return otpRepository
+                .findByUsername(username)
+                .orElseThrow(() -> new UsernameNotFoundException("User not found."));
+
+    }
+
+}

@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg943"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="CORS.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview945"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5499273"
+     inkscape:cx="698.27412"
+     inkscape:cy="102.74085"
+     inkscape:window-width="1734"
+     inkscape:window-height="1368"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs940">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker50645"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path50643" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path50110" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker50591"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path50589" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path50113" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50591-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50589-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50645-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50643-0" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931-1"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker50645-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50643-5" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931-8"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50113-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50591-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50589-17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker50645-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50643-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker66358"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path66356" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931-0"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker50645-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50643-5-4" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931-8-8"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker50645-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path50643-0-5" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect52931-1-3"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6569"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6571"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6573"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6575"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6577"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6579"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6581"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6583"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6585"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6587"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6589"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6591"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6593"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6595"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g6597"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0914098,43.51409)">
+</g>
+    <g
+       id="g14837"
+       style="display:none">
+      <path
+         d="m 114.59104,45.477406 0.24584,1.068696 c 0.0535,0.250973 0.10697,0.50709 0.15017,0.763206 h 0.0103 c 0.0483,-0.256116 0.12549,-0.517376 0.19338,-0.758064 l 0.30446,-1.073838 h 0.48343 l 0.2952,1.045038 c 0.072,0.27566 0.13475,0.531776 0.18823,0.787893 h 0.0103 c 0.0381,-0.256117 0.0915,-0.512233 0.15429,-0.787893 l 0.26126,-1.045038 h 0.58423 l -0.73955,2.354421 h -0.55132 l -0.27977,-0.957608 c -0.072,-0.245831 -0.12549,-0.469033 -0.17898,-0.75395 h -0.0103 c -0.0483,0.29006 -0.11006,0.522519 -0.17898,0.75395 l -0.29931,0.957608 h -0.55646 l -0.69635,-2.354421 z"
+         id="path6986"
+         style="stroke-width:0.128573" />
+      <path
+         d="m 107.19452,45.477406 0.24583,1.068696 c 0.0535,0.250973 0.10698,0.50709 0.15018,0.763206 h 0.0103 c 0.0483,-0.256116 0.12549,-0.517376 0.19338,-0.758064 l 0.30445,-1.073838 h 0.48344 l 0.2952,1.045038 c 0.072,0.27566 0.13474,0.531776 0.18823,0.787893 h 0.0103 c 0.038,-0.256117 0.0915,-0.512233 0.15428,-0.787893 l 0.26126,-1.045038 h 0.58424 l -0.73955,2.354421 h -0.55132 l -0.27978,-0.957608 c -0.072,-0.245831 -0.12548,-0.469033 -0.17897,-0.75395 h -0.0103 c -0.0483,0.29006 -0.11006,0.522519 -0.17898,0.75395 l -0.29931,0.957608 h -0.55647 l -0.69635,-2.354421 z"
+         id="path6982"
+         style="stroke-width:0.128573" />
+      <path
+         d="m 110.8933,45.477406 0.24583,1.068696 c 0.0535,0.250973 0.10697,0.50709 0.15017,0.763206 h 0.0103 c 0.0483,-0.256116 0.12548,-0.517376 0.19337,-0.758064 l 0.30446,-1.073838 h 0.48343 l 0.29521,1.045038 c 0.072,0.27566 0.13474,0.531776 0.18823,0.787893 h 0.0103 c 0.0381,-0.256117 0.0915,-0.512233 0.15429,-0.787893 l 0.26126,-1.045038 h 0.58423 l -0.73955,2.354421 h -0.55132 l -0.27977,-0.957608 c -0.072,-0.245831 -0.12549,-0.469033 -0.17897,-0.75395 h -0.0103 c -0.0483,0.29006 -0.11006,0.522519 -0.17897,0.75395 l -0.29932,0.957608 h -0.55646 l -0.69635,-2.354421 z"
+         id="path6984"
+         style="stroke-width:0.128573" />
+      <path
+         d="m 117.56879,47.50371 c 0,-0.223202 0.15428,-0.381603 0.3672,-0.381603 0.21806,0 0.3672,0.154287 0.3672,0.381603 0,0.21703 -0.14503,0.381603 -0.3672,0.381603 -0.21703,0 -0.3672,-0.164573 -0.3672,-0.381603 z"
+         id="path6988"
+         style="stroke-width:0.128573" />
+    </g>
+    <g
+       id="g7002"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7004"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7006"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7008"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7010"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7012"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7014"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7016"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7018"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7020"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7022"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7024"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7026"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7028"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g7030"
+       transform="matrix(0.12857256,0,0,0.12857256,79.471193,36.317383)">
+</g>
+    <g
+       id="g24584"
+       transform="matrix(0.03612815,0,0,0.03612815,107.67699,26.191373)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g24525">
+	<g
+   id="g24523">
+		<path
+   d="m 51.6,181.95 h 241.3 v -46.1 c 0,-14.9 7.4,-28.2 18.8,-36.2 v -3.9 c 0,-5.8 0.6,-11.5 1.6,-17 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.6 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.1 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.1 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+   id="path24513" />
+
+		<path
+   d="m 153.6,418.05 c 0,-5.8 0.9,-11.5 2.4,-16.8 H 33.2 c -9.3,0 -16.8,7.5 -16.8,16.8 0,9.3 7.5,16.8 16.8,16.8 H 156 c -1.5,-5.4 -2.4,-11 -2.4,-16.8 z"
+   id="path24515" />
+
+		<path
+   d="m 417,418.05 c 0,-9.3 -7.5,-16.8 -16.8,-16.8 H 276.3 c 1.5,5.4 2.4,11 2.4,16.8 0,5.8 -0.9,11.5 -2.4,16.8 h 123.9 c 9.3,0 16.8,-7.5 16.8,-16.8 z"
+   id="path24517" />
+
+		<path
+   d="m 337.1,248.55 h 133 c 9.6,0 17.3,-7.7 17.3,-17.3 v -95.3 c 0,-9.6 -7.7,-17.3 -17.3,-17.3 h -0.5 v -22.8 c 0,-36.1 -29.4,-65.5 -65.5,-65.5 -36.1,0 -65.5,29.4 -65.5,65.5 v 22.8 h -1.5 c -9.5,0 -17.3,7.7 -17.3,17.3 v 95.3 c 0,9.5 7.7,17.3 17.3,17.3 z m 76.7,-60.7 c -1.3,1 -1.7,1.9 -1.7,3.5 0,7 0,14 0,21 v 0 c 0.2,2.9 -1.3,5.7 -3.9,7.1 -6.1,3.1 -12.2,-1.2 -12.2,-7 v 0 c 0,-7 0,-14 0,-21 0,-1.4 -0.3,-2.4 -1.6,-3.3 -6.4,-4.7 -8.4,-12.7 -5.3,-19.7 3.1,-6.8 10.6,-10.8 17.7,-9.4 7.9,1.6 13.4,8 13.5,15.8 0.2,5.3 -2,9.8 -6.5,13 z m -46.5,-92 c 0,-20.3 16.5,-36.9 36.9,-36.9 20.4,0 36.9,16.5 36.9,36.9 v 22.8 h -73.7 v -22.8 z"
+   id="path24519" />
+
+		<path
+   d="m 51.6,318.25 h 147.7 v 64.7 c -13.1,6.3 -22.1,19.6 -22.1,35.1 0,21.5 17.4,39 39,39 21.5,0 39,-17.4 39,-39 0,-15.5 -9.1,-28.8 -22.1,-35.1 v -64.7 h 157.3 c 25.5,0 46.6,-18.5 50.8,-42.8 H 337.1 c -24.4,0 -44.2,-19.8 -44.2,-44.2 v -16.2 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.5 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.2 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+   id="path24521" />
+
+	</g>
+
+</g>
+      <g
+         id="g24527">
+</g>
+      <g
+         id="g24529">
+</g>
+      <g
+         id="g24531">
+</g>
+      <g
+         id="g24533">
+</g>
+      <g
+         id="g24535">
+</g>
+      <g
+         id="g24537">
+</g>
+      <g
+         id="g24539">
+</g>
+      <g
+         id="g24541">
+</g>
+      <g
+         id="g24543">
+</g>
+      <g
+         id="g24545">
+</g>
+      <g
+         id="g24547">
+</g>
+      <g
+         id="g24549">
+</g>
+      <g
+         id="g24551">
+</g>
+      <g
+         id="g24553">
+</g>
+      <g
+         id="g24555">
+</g>
+    </g>
+    <g
+       id="g24584-3"
+       transform="matrix(0.03612815,0,0,0.03612815,107.67699,64.431331)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g24525-7">
+        <g
+           id="g24523-0">
+          <path
+             d="m 51.6,181.95 h 241.3 v -46.1 c 0,-14.9 7.4,-28.2 18.8,-36.2 v -3.9 c 0,-5.8 0.6,-11.5 1.6,-17 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.6 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.1 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.1 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24513-9" />
+          <path
+             d="m 153.6,418.05 c 0,-5.8 0.9,-11.5 2.4,-16.8 H 33.2 c -9.3,0 -16.8,7.5 -16.8,16.8 0,9.3 7.5,16.8 16.8,16.8 H 156 c -1.5,-5.4 -2.4,-11 -2.4,-16.8 z"
+             id="path24515-4" />
+          <path
+             d="m 417,418.05 c 0,-9.3 -7.5,-16.8 -16.8,-16.8 H 276.3 c 1.5,5.4 2.4,11 2.4,16.8 0,5.8 -0.9,11.5 -2.4,16.8 h 123.9 c 9.3,0 16.8,-7.5 16.8,-16.8 z"
+             id="path24517-5" />
+          <path
+             d="m 337.1,248.55 h 133 c 9.6,0 17.3,-7.7 17.3,-17.3 v -95.3 c 0,-9.6 -7.7,-17.3 -17.3,-17.3 h -0.5 v -22.8 c 0,-36.1 -29.4,-65.5 -65.5,-65.5 -36.1,0 -65.5,29.4 -65.5,65.5 v 22.8 h -1.5 c -9.5,0 -17.3,7.7 -17.3,17.3 v 95.3 c 0,9.5 7.7,17.3 17.3,17.3 z m 76.7,-60.7 c -1.3,1 -1.7,1.9 -1.7,3.5 0,7 0,14 0,21 v 0 c 0.2,2.9 -1.3,5.7 -3.9,7.1 -6.1,3.1 -12.2,-1.2 -12.2,-7 v 0 c 0,-7 0,-14 0,-21 0,-1.4 -0.3,-2.4 -1.6,-3.3 -6.4,-4.7 -8.4,-12.7 -5.3,-19.7 3.1,-6.8 10.6,-10.8 17.7,-9.4 7.9,1.6 13.4,8 13.5,15.8 0.2,5.3 -2,9.8 -6.5,13 z m -46.5,-92 c 0,-20.3 16.5,-36.9 36.9,-36.9 20.4,0 36.9,16.5 36.9,36.9 v 22.8 h -73.7 v -22.8 z"
+             id="path24519-1" />
+          <path
+             d="m 51.6,318.25 h 147.7 v 64.7 c -13.1,6.3 -22.1,19.6 -22.1,35.1 0,21.5 17.4,39 39,39 21.5,0 39,-17.4 39,-39 0,-15.5 -9.1,-28.8 -22.1,-35.1 v -64.7 h 157.3 c 25.5,0 46.6,-18.5 50.8,-42.8 H 337.1 c -24.4,0 -44.2,-19.8 -44.2,-44.2 v -16.2 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.5 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.2 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24521-9" />
+        </g>
+      </g>
+      <g
+         id="g24527-4" />
+      <g
+         id="g24529-9" />
+      <g
+         id="g24531-8" />
+      <g
+         id="g24533-7" />
+      <g
+         id="g24535-0" />
+      <g
+         id="g24537-3" />
+      <g
+         id="g24539-1" />
+      <g
+         id="g24541-9" />
+      <g
+         id="g24543-3" />
+      <g
+         id="g24545-0" />
+      <g
+         id="g24547-2" />
+      <g
+         id="g24549-1" />
+      <g
+         id="g24551-9" />
+      <g
+         id="g24553-0" />
+      <g
+         id="g24555-6" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.52127"
+       y="46.91074"
+       id="text30658"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30656"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="107.52127"
+         y="46.91074">example.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
+   id="tspan45157">com</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.52127"
+       y="85.168587"
+       id="text30658-5"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30656-7"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="107.52127"
+         y="85.168587">example.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
+   id="tspan48089">org</tspan></tspan></text>
+    <rect
+       x="27.66827"
+       y="44.412354"
+       style="fill:#ffffff;stroke:none;stroke-width:0.0621563"
+       width="31.326654"
+       height="22.282701"
+       id="rect6954"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e5e5e5;stroke:none;stroke-width:0.0621563"
+       d="M 58.7463,44.660977 V 66.446429 H 27.916894 V 44.660977 H 58.7463 m 0.497248,-0.497248 H 27.419646 v 22.779949 h 31.823902 z"
+       id="path6970"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       y="66.151062"
+       width="31.823902"
+       height="0.79360861"
+       id="rect6992"
+       x="27.419645"
+       style="display:none;stroke:none;stroke-width:0.0621563" />
+    <path
+       d="m 27.436521,46.727307 v -2.797548 c 0,-0.386257 0.447524,-0.702285 0.994497,-0.702285 h 29.832421 c 0.546974,0 0.994496,0.316028 0.994496,0.702285 v 2.797197 H 27.436521 Z"
+       id="path6972"
+       style="stroke:none;stroke-width:0.0522324"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g24384"
+       transform="matrix(0.31422768,0,0,0.31422768,3.3242384,30.46067)"
+       style="stroke:none"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g65663">
+        <circle
+           style="fill:#e21b1b;stroke:none;stroke-width:0.128573"
+           cx="86.401772"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6976" />
+        <circle
+           style="fill:#56e2e2;fill-opacity:1;stroke:none;stroke-width:0.128573"
+           cx="90.830978"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6980" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.128573"
+           cx="95.272972"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6978" />
+      </g>
+    </g>
+    <g
+       id="g24476"
+       style="stroke:none"
+       transform="matrix(0.48343179,0,0,0.48343179,-10.999255,22.073936)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polygon
+         style="fill:#ffffff;stroke:none"
+         points="171.536,101.508 200.24,57.508 471.624,57.508 471.624,101.508 "
+         id="polygon6974"
+         transform="matrix(0.12857256,0,0,0.09872009,79.471192,39.699818)" />
+      <polygon
+         points="436.904,69.324 439.696,66.468 453.04,79.468 440.352,92.508 437.496,89.708 447.384,79.548 "
+         id="polygon6996"
+         transform="matrix(0.12857256,0,0,0.12857256,79.471193,37.328879)"
+         style="stroke:none" />
+      <rect
+         x="133.67944"
+         y="47.29171"
+         width="3.3963728"
+         height="0.51429021"
+         id="rect6998"
+         style="stroke:none;stroke-width:0.128573" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="105.50275"
+         y="48.327446"
+         id="text16865"><tspan
+           sodipodi:role="line"
+           id="tspan16863"
+           style="font-size:2.82222px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+           x="105.50275"
+           y="48.327446">example.com</tspan></text>
+    </g>
+    <g
+       id="g24469"
+       transform="matrix(0.48343179,0,0,0.48343179,-12.057589,20.759786)"
+       style="stroke:none"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.084503;stroke-miterlimit:0.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7372"
+         width="53.837627"
+         height="16.458689"
+         x="84.626282"
+         y="69.188217" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="91.430405"
+         y="72.463913"
+         id="text8182"><tspan
+           sodipodi:role="line"
+           id="tspan8180"
+           style="font-size:2.82222px;fill:#000101;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+           x="91.430405"
+           y="72.463913">&lt;iframe src=&quot;example.org&quot; /&gt;</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect38685"
+       width="27.046391"
+       height="11.226804"
+       x="30.023197"
+       y="53.412373"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.257611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 59.243367,50.349479 105.52349,35.797856"
+       id="path49820"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.178305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker50591)"
+       d="M 54.312488,55.276476 104.92348,68.631357"
+       id="path50507"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.178305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker50645)"
+       d="m 52.72499,60.450664 50.61097,13.354881"
+       id="path50507-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g51866"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(20.582474,-17.388231)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.799321,83.18663 3.236634,3.409779"
+         id="path50680"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 60.041979,83.216948 -3.248682,3.349144"
+         id="path50680-7"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker50645);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 78.757731,68.759364 c -1.190773,3.997593 -2.381495,7.995016 -5.274059,10.585566 -2.892564,2.59055 -7.540188,3.788098 -12.161508,4.978868"
+       id="path52929"
+       inkscape:path-effect="#path-effect52931"
+       inkscape:original-d="m 78.757731,68.759364 c -1.190458,3.997687 -2.381178,7.99511 -3.572166,11.992268 -4.592611,1.191011 -9.242001,2.381708 -13.863401,3.572166"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker50645-1)"
+       d="m 30.021482,55.899031 c -4.224146,-2.467174 -8.448005,-4.93418 -8.492789,-8.476153 -0.04478,-3.541973 4.090413,-8.160405 8.225256,-12.778443"
+       id="path52929-0"
+       inkscape:path-effect="#path-effect52931-8"
+       inkscape:original-d="m 30.021482,55.899031 c -4.224194,-2.467092 -8.448053,-4.934098 -12.671581,-7.40102 4.134287,-4.616856 8.269483,-9.235289 12.404048,-13.853576"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="2.726139"
+       inkscape:transform-center-y="2.7575693"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.184714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker50645-2)"
+       d="m 47.183562,42.727586 c 2.043825,-4.191855 4.087324,-8.383042 1.982686,-10.832829 -2.104639,-2.449788 -8.359806,-3.159142 -14.613876,-3.868372"
+       id="path52929-8"
+       inkscape:path-effect="#path-effect52931-1"
+       inkscape:original-d="m 47.183562,42.727586 c 2.044143,-4.1917 4.087642,-8.382887 6.130502,-12.57357 -6.252481,-0.708815 -12.507648,-1.41817 -18.761692,-2.127631"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.682987"
+       y="86.667526"
+       id="text54225"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="29.682987"
+         y="86.667526"
+         id="tspan57414">The browser doesn't allow the content</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="29.682987"
+         y="89.313362"
+         id="tspan57418">from example.org because ist cross-domain</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.0531263"
+       y="28.518757"
+       id="text54225-4"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="6.0531263"
+         y="28.518757"
+         id="tspan57414-3">You opened example.com </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="6.0531263"
+         y="31.164595"
+         id="tspan61714">but the page uses an &lt;iframe&gt; </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="6.0531263"
+         y="33.810432"
+         id="tspan61716">to nest content from example.org</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="6.0531263"
+         y="36.456268"
+         id="tspan57418-5" /></text>
+    <polygon
+       points="407.336,459.588 104.664,459.588 76.072,459.588 10.256,459.588 0,459.588 0,472.356 512,472.356 512,459.588 501.744,459.588 435.928,459.588 "
+       id="polygon6994"
+       transform="matrix(0.06215606,0,0,0.06215606,27.419647,37.584385)"
+       style="display:none;fill:#e5e5e5;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect65925"
+       width="152.75258"
+       height="85.731956"
+       x="1.0206186"
+       y="16.670103"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g24584-1"
+       transform="matrix(0.03612815,0,0,0.03612815,108.86771,146.62436)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g24525-8">
+        <g
+           id="g24523-3">
+          <path
+             d="m 51.6,181.95 h 241.3 v -46.1 c 0,-14.9 7.4,-28.2 18.8,-36.2 v -3.9 c 0,-5.8 0.6,-11.5 1.6,-17 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.6 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.1 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.1 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24513-2" />
+          <path
+             d="m 153.6,418.05 c 0,-5.8 0.9,-11.5 2.4,-16.8 H 33.2 c -9.3,0 -16.8,7.5 -16.8,16.8 0,9.3 7.5,16.8 16.8,16.8 H 156 c -1.5,-5.4 -2.4,-11 -2.4,-16.8 z"
+             id="path24515-44" />
+          <path
+             d="m 417,418.05 c 0,-9.3 -7.5,-16.8 -16.8,-16.8 H 276.3 c 1.5,5.4 2.4,11 2.4,16.8 0,5.8 -0.9,11.5 -2.4,16.8 h 123.9 c 9.3,0 16.8,-7.5 16.8,-16.8 z"
+             id="path24517-59" />
+          <path
+             d="m 337.1,248.55 h 133 c 9.6,0 17.3,-7.7 17.3,-17.3 v -95.3 c 0,-9.6 -7.7,-17.3 -17.3,-17.3 h -0.5 v -22.8 c 0,-36.1 -29.4,-65.5 -65.5,-65.5 -36.1,0 -65.5,29.4 -65.5,65.5 v 22.8 h -1.5 c -9.5,0 -17.3,7.7 -17.3,17.3 v 95.3 c 0,9.5 7.7,17.3 17.3,17.3 z m 76.7,-60.7 c -1.3,1 -1.7,1.9 -1.7,3.5 0,7 0,14 0,21 v 0 c 0.2,2.9 -1.3,5.7 -3.9,7.1 -6.1,3.1 -12.2,-1.2 -12.2,-7 v 0 c 0,-7 0,-14 0,-21 0,-1.4 -0.3,-2.4 -1.6,-3.3 -6.4,-4.7 -8.4,-12.7 -5.3,-19.7 3.1,-6.8 10.6,-10.8 17.7,-9.4 7.9,1.6 13.4,8 13.5,15.8 0.2,5.3 -2,9.8 -6.5,13 z m -46.5,-92 c 0,-20.3 16.5,-36.9 36.9,-36.9 20.4,0 36.9,16.5 36.9,36.9 v 22.8 h -73.7 v -22.8 z"
+             id="path24519-0" />
+          <path
+             d="m 51.6,318.25 h 147.7 v 64.7 c -13.1,6.3 -22.1,19.6 -22.1,35.1 0,21.5 17.4,39 39,39 21.5,0 39,-17.4 39,-39 0,-15.5 -9.1,-28.8 -22.1,-35.1 v -64.7 h 157.3 c 25.5,0 46.6,-18.5 50.8,-42.8 H 337.1 c -24.4,0 -44.2,-19.8 -44.2,-44.2 v -16.2 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.5 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.2 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24521-2" />
+        </g>
+      </g>
+      <g
+         id="g24527-5" />
+      <g
+         id="g24529-0" />
+      <g
+         id="g24531-3" />
+      <g
+         id="g24533-5" />
+      <g
+         id="g24535-7" />
+      <g
+         id="g24537-39" />
+      <g
+         id="g24539-14" />
+      <g
+         id="g24541-4" />
+      <g
+         id="g24543-9" />
+      <g
+         id="g24545-2" />
+      <g
+         id="g24547-3" />
+      <g
+         id="g24549-3" />
+      <g
+         id="g24551-1" />
+      <g
+         id="g24553-09" />
+      <g
+         id="g24555-9" />
+    </g>
+    <g
+       id="g24584-3-4"
+       transform="matrix(0.03612815,0,0,0.03612815,108.86771,184.86432)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g24525-7-5">
+        <g
+           id="g24523-0-6">
+          <path
+             d="m 51.6,181.95 h 241.3 v -46.1 c 0,-14.9 7.4,-28.2 18.8,-36.2 v -3.9 c 0,-5.8 0.6,-11.5 1.6,-17 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.6 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.1 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.1 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24513-9-7" />
+          <path
+             d="m 153.6,418.05 c 0,-5.8 0.9,-11.5 2.4,-16.8 H 33.2 c -9.3,0 -16.8,7.5 -16.8,16.8 0,9.3 7.5,16.8 16.8,16.8 H 156 c -1.5,-5.4 -2.4,-11 -2.4,-16.8 z"
+             id="path24515-4-8" />
+          <path
+             d="m 417,418.05 c 0,-9.3 -7.5,-16.8 -16.8,-16.8 H 276.3 c 1.5,5.4 2.4,11 2.4,16.8 0,5.8 -0.9,11.5 -2.4,16.8 h 123.9 c 9.3,0 16.8,-7.5 16.8,-16.8 z"
+             id="path24517-5-8" />
+          <path
+             d="m 337.1,248.55 h 133 c 9.6,0 17.3,-7.7 17.3,-17.3 v -95.3 c 0,-9.6 -7.7,-17.3 -17.3,-17.3 h -0.5 v -22.8 c 0,-36.1 -29.4,-65.5 -65.5,-65.5 -36.1,0 -65.5,29.4 -65.5,65.5 v 22.8 h -1.5 c -9.5,0 -17.3,7.7 -17.3,17.3 v 95.3 c 0,9.5 7.7,17.3 17.3,17.3 z m 76.7,-60.7 c -1.3,1 -1.7,1.9 -1.7,3.5 0,7 0,14 0,21 v 0 c 0.2,2.9 -1.3,5.7 -3.9,7.1 -6.1,3.1 -12.2,-1.2 -12.2,-7 v 0 c 0,-7 0,-14 0,-21 0,-1.4 -0.3,-2.4 -1.6,-3.3 -6.4,-4.7 -8.4,-12.7 -5.3,-19.7 3.1,-6.8 10.6,-10.8 17.7,-9.4 7.9,1.6 13.4,8 13.5,15.8 0.2,5.3 -2,9.8 -6.5,13 z m -46.5,-92 c 0,-20.3 16.5,-36.9 36.9,-36.9 20.4,0 36.9,16.5 36.9,36.9 v 22.8 h -73.7 v -22.8 z"
+             id="path24519-1-3" />
+          <path
+             d="m 51.6,318.25 h 147.7 v 64.7 c -13.1,6.3 -22.1,19.6 -22.1,35.1 0,21.5 17.4,39 39,39 21.5,0 39,-17.4 39,-39 0,-15.5 -9.1,-28.8 -22.1,-35.1 v -64.7 h 157.3 c 25.5,0 46.6,-18.5 50.8,-42.8 H 337.1 c -24.4,0 -44.2,-19.8 -44.2,-44.2 v -16.2 H 51.6 c -28.5,0 -51.6,23.1 -51.6,51.6 0,28.5 23.1,51.6 51.6,51.6 z m 95.6,-64.6 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 -0.1,-7.2 5.8,-13 13,-13 z m -40,0 c 7.2,0 13,5.8 13,13 0,7.2 -5.8,13 -13,13 -7.2,0 -13,-5.8 -13,-13 0,-7.2 5.8,-13 13,-13 z m -53,-12.2 c 13.9,0 25.2,11.3 25.2,25.2 0,13.9 -11.3,25.2 -25.2,25.2 -13.9,0 -25.2,-11.3 -25.2,-25.2 0,-13.9 11.3,-25.2 25.2,-25.2 z"
+             id="path24521-9-4" />
+        </g>
+      </g>
+      <g
+         id="g24527-4-6" />
+      <g
+         id="g24529-9-6" />
+      <g
+         id="g24531-8-6" />
+      <g
+         id="g24533-7-4" />
+      <g
+         id="g24535-0-0" />
+      <g
+         id="g24537-3-5" />
+      <g
+         id="g24539-1-9" />
+      <g
+         id="g24541-9-0" />
+      <g
+         id="g24543-3-0" />
+      <g
+         id="g24545-0-1" />
+      <g
+         id="g24547-2-6" />
+      <g
+         id="g24549-1-8" />
+      <g
+         id="g24551-9-6" />
+      <g
+         id="g24553-0-3" />
+      <g
+         id="g24555-6-4" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.712"
+       y="167.34373"
+       id="text30658-6"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30656-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="108.712"
+         y="167.34373">example.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
+   id="tspan45157-3">com</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.712"
+       y="205.60158"
+       id="text30658-5-8"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan30656-7-2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="108.712"
+         y="205.60158">example.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
+   id="tspan48089-0">org</tspan></tspan></text>
+    <rect
+       x="28.85899"
+       y="164.84534"
+       style="fill:#ffffff;stroke:none;stroke-width:0.0621563"
+       width="31.326654"
+       height="22.282701"
+       id="rect6954-5"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e5e5e5;stroke:none;stroke-width:0.0621563"
+       d="m 59.937022,165.09397 v 21.78545 h -30.82941 v -21.78545 h 30.82941 m 0.49725,-0.49725 h -31.82391 v 22.77995 h 31.82391 z"
+       id="path6970-3"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 28.627242,167.1603 v -2.79755 c 0,-0.38626 0.44752,-0.70229 0.9945,-0.70229 h 29.83242 c 0.54697,0 0.99449,0.31603 0.99449,0.70229 v 2.7972 h -31.82141 z"
+       id="path6972-3"
+       style="stroke:none;stroke-width:0.0522324"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g24384-7"
+       transform="matrix(0.31422768,0,0,0.31422768,4.5149593,150.89366)"
+       style="stroke:none"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g65663-5">
+        <circle
+           style="fill:#e21b1b;stroke:none;stroke-width:0.128573"
+           cx="86.401772"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6976-4" />
+        <circle
+           style="fill:#56e2e2;fill-opacity:1;stroke:none;stroke-width:0.128573"
+           cx="90.830978"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6980-2" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.128573"
+           cx="95.272972"
+           cy="46.462788"
+           r="1.7496153"
+           id="circle6978-7" />
+      </g>
+    </g>
+    <g
+       id="g24476-3"
+       style="stroke:none"
+       transform="matrix(0.48343179,0,0,0.48343179,-9.8085337,142.50693)"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <polygon
+         style="fill:#ffffff;stroke:none"
+         points="471.624,101.508 171.536,101.508 200.24,57.508 471.624,57.508 "
+         id="polygon6974-5"
+         transform="matrix(0.12857256,0,0,0.09872009,79.471192,39.699818)" />
+      <polygon
+         points="439.696,66.468 453.04,79.468 440.352,92.508 437.496,89.708 447.384,79.548 436.904,69.324 "
+         id="polygon6996-3"
+         transform="matrix(0.12857256,0,0,0.12857256,79.471193,37.328879)"
+         style="stroke:none" />
+      <rect
+         x="133.67944"
+         y="47.29171"
+         width="3.3963728"
+         height="0.51429021"
+         id="rect6998-2"
+         style="stroke:none;stroke-width:0.128573" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="105.50275"
+         y="48.327446"
+         id="text16865-1"><tspan
+           sodipodi:role="line"
+           id="tspan16863-8"
+           style="font-size:2.82222px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+           x="105.50275"
+           y="48.327446">example.com</tspan></text>
+    </g>
+    <g
+       id="g24469-4"
+       transform="matrix(0.48343179,0,0,0.48343179,-10.866868,141.19278)"
+       style="stroke:none"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;stroke:none;stroke-width:0.084503;stroke-miterlimit:0.9;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7372-6"
+         width="53.837627"
+         height="16.458689"
+         x="84.626282"
+         y="69.188217" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="91.430405"
+         y="72.463913"
+         id="text8182-0"><tspan
+           sodipodi:role="line"
+           id="tspan8180-8"
+           style="font-size:2.82222px;fill:#000101;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+           x="91.430405"
+           y="72.463913">&lt;iframe src=&quot;example.org&quot; /&gt;</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect38685-6"
+       width="27.046391"
+       height="11.226804"
+       x="31.213924"
+       y="173.84537"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.257611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-5)"
+       d="M 60.434092,170.78247 106.71421,156.23085"
+       id="path49820-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.178305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker50591-0)"
+       d="M 55.503212,175.70947 106.1142,189.06435"
+       id="path50507-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.178305px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker50645-4)"
+       d="m 54.974046,178.76697 50.610974,13.35488"
+       id="path50507-6-8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.102676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker50645-4)"
+       d="m 53.392567,192.41794 c -0.694815,2.25526 -1.389591,4.5104 -2.697105,6.3261 -1.307514,1.81569 -3.227802,3.19205 -5.148112,4.56843"
+       id="path52929-6"
+       inkscape:path-effect="#path-effect52931-0"
+       inkscape:original-d="m 53.392567,192.41794 c -0.6945,2.25536 -1.389276,4.5105 -2.084333,6.76543 -1.920071,1.37666 -3.84036,2.75302 -5.760884,4.1291"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17.209717"
+       y="207.17276"
+       id="text54225-9"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="17.209717"
+         y="207.17276"
+         id="tspan57414-35">example.org specifies in the response header what origins  accepts.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="17.209717"
+         y="209.8186"
+         id="tspan57418-53">The browser accepts and displays the content.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.495071"
+       y="190.26733"
+       id="text54225-9-4"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="34.495071"
+         y="190.26733"
+         id="tspan57418-53-8">Access-Control-Allow-Origin: example.com, example.org</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect65925-8"
+       width="152.75258"
+       height="85.731956"
+       x="93.386597"
+       y="128.93814"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.287125"
+       y="191.24687"
+       id="text67980"><tspan
+         sodipodi:role="line"
+         id="tspan67978"
+         style="stroke-width:0.264583px"></tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect79459"
+       width="146.74289"
+       height="98.14933"
+       x="4.3301177"
+       y="128.46016"
+       inkscape:export-filename="D:\Development\spring\security\documentation\CORS2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

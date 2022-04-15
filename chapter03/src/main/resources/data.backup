@@ -1,0 +1,7 @@
+# insert into users (id, username, password, enabled) values (1, 'john', '{noop}12345', 1);
+# insert into users (id, username, password, enabled) values (2, 'bill', '{noop}54321', 1);
+#
+# insert into authorities (id, username, authority) values (1, 'john', 'read');
+# insert into authorities (id, username, authority) values (2, 'john', 'write');
+#
+# insert into authorities (id, username, authority) values (3, 'bill', 'read');
